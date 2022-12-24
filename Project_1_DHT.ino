@@ -11,7 +11,7 @@ const char *ssid =  "FBI OPEN UP!";
 const char *pass =  "Prak@222";
  
  
-DHT dht(D5, DHT11);
+DHT dht(D1, DHT11);
  
 WiFiClient client;
  
